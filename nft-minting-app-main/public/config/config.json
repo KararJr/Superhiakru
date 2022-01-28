@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x433f84b98d426635c1f222098ba0c231f62e048a",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x433f84b98d426635c1f222098ba0c231f62e048a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Super Hikarus",
+  "SYMBOL": "Shikaru",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/super-hikaru/",
+  "SHOW_BACKGROUND": true
+}
